@@ -1,0 +1,5 @@
+   name  ,sp, X, Y
+magic0011, 2, 3, 1
+magic0012, 3, 3, 2
+magic0013, 3, 4, 2
+magic0014, 3, 4, 3
